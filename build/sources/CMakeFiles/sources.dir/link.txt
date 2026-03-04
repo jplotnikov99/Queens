@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsources.a CMakeFiles/sources.dir/framework.cpp.o CMakeFiles/sources.dir/mymath.cpp.o
+/usr/bin/ranlib libsources.a
